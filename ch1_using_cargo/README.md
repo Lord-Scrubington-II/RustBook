@@ -1,4 +1,4 @@
-# Using Cargo to Build Rust Projects
+# Chapter 1: Using Cargo to Build Rust Projects
 
 Given a directory with a structure similar to this one (produced via `cargo new <project_name>`), the following basic commands can be used to produce build files:  
 
